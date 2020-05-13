@@ -1,46 +1,28 @@
 {
     "theme-title" : "",
-    "eventName" : "GDG DevFest'18",
+    "eventName" : "The NeXt Conference",
     "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
-    "devfest18DetailsSmall" : "GDG DevFest Jalandhar 2018 are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.",
+    "devfest18DetailsSmall" : "An online conference focused on building soft skills and preparing for a post pandemic world",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "eventDate" : "13th & 14 Oct 2018",
-    "eventTime" : "09 am to 5.30 pm",
-    "eventVenue" : "Lovely Professional University",
+    "eventDate" : "Starts 20th of May",
+    "eventTime" : "1pm to 2pm",
+    "eventVenue" : "Youtube",
     "hashTag" : [
         {
-            "name" : "#GDGJalandhar"
+            "name" : "#TheNeXtCon"
         },
         {
-            "name" : "#WTMJalandhar"
+            "name" : "#SoftSKillsTraining"
         },
         {
-            "name" : "#GDG"
-        },
-        {
-            "name" : "#WTM"
+            "name" : "#ECX2.0"
         }
     ],
     "socialLinks":[
         {
-            "name" : "facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
-            "icon" : "fa-facebook"
-        },
-        {
-            "name" : "googleplus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fa-google-plus"
-        },
-        {
             "name" : "twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/ecxunilag",
             "icon" : "fa-twitter"
-        },
-        {
-            "name" : "meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
-            "icon" : "fa-meetup"
         }
     ],
     "overviewSection":[
@@ -94,12 +76,12 @@
         ]
     },
     "speakerSection" : {
-        "title" : "Our lineup of big thinkers and even bigger doers",
-        "des" : "Get ready to be inspired by speakers who are building a cloud full of opportunity with our partners and customers. Stay tuned as we add more dynamic speakers to our lineup." 
+        "title" : "Our lineup of leading professionals and achievers",
+        "des" : "Get ready to be inspired by speakers who will help you gain important life skills and also learn from their experiences. Stay tuned as we add more speakers to our lineup" 
     },
     "sessionsSection" : {
         "title" : "Our Theme & Sessions",
-        "des" : "At sessions that span from the technical to the visionary, let’s celebrate and discover what the cloud can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us."
+        "des" : "Sessions covers different soft skills ranging from CV writing, leadership skills to Entrepreneurial skills. These skills have always been downplayed but proves to be essential and very important to anyone preparing for the post pandemic world"
     }
     
 }
