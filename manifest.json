@@ -1,6 +1,6 @@
 {
-  "name": "DevFest'18 Jalandhar",
-  "short_name": "DevFest'18",
+  "name": "The NeXt Conference",
+  "short_name": "The NeXt",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "theme_color": "#6284F3",
