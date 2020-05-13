@@ -1,7 +1,7 @@
 {
     "theme-title" : "",
     "eventName" : "The NeXt Conference",
-    "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
+    "ytvideo" : "https://www.youtube.com/channel/UCfNQxfT2ZVHOwgVVJcA6q8w",
     "devfest18DetailsSmall" : "An online conference focused on building soft skills and preparing for a post pandemic world",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
     "eventDate" : "Starts 20th of May",
@@ -28,7 +28,7 @@
     "overviewSection":[
         {
             "title" : "Sessions",
-            "des" : "3 parallel tracks, dedicated to Android, Web and Cloud technologies",
+            "des" : "8 brilliant sesions, dedicated to Soft Skills, CV crafting and Lots more",
             "icon" : "fa-microphone"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "title" : "Workshops",
-            "des" : "3 workshops to get your hands dirty and create a working prototype right during the conference",
+            "des" : "2 workshops to get your hands dirty and create a nice prototype",
             "icon" : "fa-users"
         },
         {
@@ -59,17 +59,17 @@
                 "icon" : "fa-microphone"
             },
             {
-                "quantity" : "3+",
+                "quantity" : "2+",
                 "title" : "Workshop",
                 "icon" : "fa-lightbulb-o"
             },
             {
-                "quantity" : "15+",
+                "quantity" : "8+",
                 "title" : "Sessions",
                 "icon" : "fa-users"
             },
             {
-                "quantity" : "10+",
+                "quantity" : "5+",
                 "title" : "Speakers",
                 "icon" : "fa-american-sign-language-interpreting"
             }
