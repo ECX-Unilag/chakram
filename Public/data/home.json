@@ -1,0 +1,87 @@
+{
+    "theme-title" : "",
+    "eventName" : "The NeXt Conference",
+    "ytvideo" : "https://www.youtube.com/channel/UCfNQxfT2ZVHOwgVVJcA6q8w",
+    "devfest18DetailsSmall" : "An online conference focused on building soft skills and preparing for a post pandemic world",
+    "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
+    "eventDate" : "Starts 20th of May",
+    "eventTime" : "1pm to 2pm",
+    "eventVenue" : "Youtube",
+    "hashTag" : [
+        {
+            "name" : "#TheNeXtConf"
+        },
+        {
+            "name" : "#SoftSKillsTraining"
+        },
+        {
+            "name" : "#ECX2.0"
+        }
+    ],
+    "socialLinks":[
+        {
+            "name" : "twitter",
+            "link" : "https://twitter.com/ecxunilag",
+            "icon" : "fa-twitter"
+        }
+    ],
+    "overviewSection":[
+        {
+            "title" : "Sessions",
+            "des" : "8 brilliant sesions, dedicated to Soft Skills, CV crafting and Lots more",
+            "icon" : "fa-microphone"
+        },
+        {
+            "title" : "Showcases",
+            "des" : "Demo zone with the latest of Google tech: Big Data, face recognition, VR, IoT - all in one place",
+            "icon" : "fa-lightbulb-o"
+        },
+        {
+            "title" : "Workshops",
+            "des" : "2 workshops to get your hands dirty and create a nice prototype",
+            "icon" : "fa-users"
+        },
+        {
+            "title" : "Networking",
+            "des" : "Work hard and enjoy DevFest is the best place to meet new people",
+            "icon" : "fa-american-sign-language-interpreting"
+        }
+    ],
+    "states":{
+        "title" : "On the edge of Android, Web and Cloud.",
+        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
+        "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
+
+        "statistics":[
+            {
+                "quantity" : "300+",
+                "title" : "Attendees",
+                "icon" : "fa-microphone"
+            },
+            {
+                "quantity" : "2+",
+                "title" : "Workshop",
+                "icon" : "fa-lightbulb-o"
+            },
+            {
+                "quantity" : "8+",
+                "title" : "Sessions",
+                "icon" : "fa-users"
+            },
+            {
+                "quantity" : "5+",
+                "title" : "Speakers",
+                "icon" : "fa-american-sign-language-interpreting"
+            }
+        ]
+    },
+    "speakerSection" : {
+        "title" : "Our lineup of leading professionals and achievers",
+        "des" : "Get ready to be inspired by speakers who will help you gain important life skills and also learn from their experiences. Stay tuned as we add more speakers to our lineup" 
+    },
+    "sessionsSection" : {
+        "title" : "Our Theme & Sessions",
+        "des" : "Sessions covers different soft skills ranging from CV writing, leadership skills to Entrepreneurial skills. These skills have always been downplayed but proves to be essential and very important to anyone preparing for the post pandemic world"
+    }
+    
+}
