@@ -1,18 +1,16 @@
-{   "chaperName" : "GDG Jalandhar",
+{   "chaperName" : "ECX",
     "chapterSocialMediaLinks": {
-        "facebook" : "https://www.facebook.com/GDGJalandhar/",
+        "instagram" : "https://www.instagram.com/ecxunilag/",
         "googlePlus" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-        "twitter" : "https://twitter.com/gdgjalandhar",
+        "twitter" : "https://twitter.com/ecxunilag",
         "meetup" : "https://www.meetup.com/GDG-Jalandhar/",
-        "youtube" : "",
-        "slack" : "",
-        "linkedin" : "",
-        "github" : ""
+        "youtube" : "https://www.youtube.com/channel/UCfNQxfT2ZVHOwgVVJcA6q8w"
+        
     },
     "aboutSection":[
         {
-            "linkName" : "GDG Jalandhar",
-            "link" : "http://gdgjalandhar.com/"
+            "linkName" : "ECX",
+            "link" : "https://ecx.website/"
         },
         {
             "linkName" : "Google Developers Groups",

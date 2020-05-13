@@ -78,6 +78,7 @@
                             <input type="text" id="materialLoginFormEmail" class="form-control" ng-model="search">
                             <label for="materialLoginFormEmail"><i class="fa fa-search" aria-hidden="true"></i> Search inside Schedule</label>
                             <small>All times are GMT+1</small>
+                            
                         </div>
                     </div>
                 </div>
@@ -86,16 +87,23 @@
                     <div class="col-md-12">
                         <table class="table table-hover animated fadeInUp" style="width: 100%;border-color:#e0e0e0;">
                             <tr class="primary-color text-white">
+
+                                <td class="p-3" style="width: 40%">
+                                    <p class="google-font mb-0">Day</p>
+                                </td>
+                                
                                 <td class="p-3" style="width: 20%">
                                     <p class="google-font mb-0">Timing</p>
                                 </td>
-                                <td class="p-3" style="width: 20%">
+                                <td class="p-3" style="width: 40%">
                                     <p class="google-font mb-0">Sessions Name</p>
                                 </td>
                             </tr>
                             <tr ng-repeat="sd in schData | filter: search">
+
+                                <td class="p-3" style="width: 40%;"><p class="google-font">{{sd.day}}</p></td>
                                 <td class="p-3" style="width: 20%;"><p class="google-font">{{sd.time}}</p></td>
-                                <td class="p-3" style="width: 80%;"><p class="google-font">{{sd.detail}}</p></td>
+                                <td class="p-3" style="width: 40%;"><p class="google-font">{{sd.detail}}</p></td>
                             </tr>
                         </table>
                     </div>
