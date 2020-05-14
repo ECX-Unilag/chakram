@@ -43,13 +43,13 @@
         },
         {
             "title" : "Networking",
-            "des" : "Work hard and enjoy DevFest is the best place to meet new people",
+            "des" : "Work hard and enjoy NeXt Conference is the best place to meet new people",
             "icon" : "fa-american-sign-language-interpreting"
         }
     ],
     "states":{
-        "title" : "On the edge of Android, Web and Cloud.",
-        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
+        "title" : "After the Pandemic What is NeXt? ",
+        "des" : "The NeXt Conference brings together people who shape the future of Work for 4 days of sessions, workshops and networking. Described by many as 'NeXt Conference', our team creates a Conference where we all can meet up for inspiration and experience sharing.",
         "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
 
         "statistics":[

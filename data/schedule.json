@@ -1,22 +1,22 @@
 [
  
     {
-        "day" : "18-05-2020",
+        "day" : "20-05-2020",
         "time":"2.00 PM - 3.00 PM",
         "detail":"Session 1"
     },
     {
-        "day" : "18-05-2020",
+        "day" : "20-05-2020",
         "time":"3.30 PM - 4.30 PM",
         "detail":"Session 2"
     },
     {
-        "day" : "20-05-2020",
+        "day" : "21-05-2020",
         "time":"2.00 PM - 3.00 PM",
         "detail":"Session 3"
     },
     {
-        "day" : "20-05-2020",
+        "day" : "21-05-2020",
         "time":"3.30 PM - 4.30 PM",
         "detail":"Session 4"
     },
