@@ -1,9 +1,9 @@
 {
     "theme-title" : "",
     "eventName" : "The NeXt Conference",
-    "ytvideo" : "https://www.youtube.com/channel/UCfNQxfT2ZVHOwgVVJcA6q8w",
+    "ytvideo" : "https://www.youtube.com/embed/D93rTGn1Mls",
     "devfest18DetailsSmall" : "An online conference focused on building soft skills and preparing for a post pandemic world",
-    "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
+    "eventMeetupLink" : "/registration",
     "eventDate" : "Starts 20th of May",
     "eventTime" : "1pm to 2pm",
     "eventVenue" : "Youtube",
@@ -43,18 +43,18 @@
         },
         {
             "title" : "Networking",
-            "des" : "Work hard and enjoy DevFest is the best place to meet new people",
+            "des" : "Work hard and enjoy NeXt Conference is the best place to meet new people",
             "icon" : "fa-american-sign-language-interpreting"
         }
     ],
     "states":{
-        "title" : "On the edge of Android, Web and Cloud.",
-        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
-        "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
+        "title" : "After the Pandemic What is NeXt? ",
+        "des" : "The NeXt Conference brings together people who shape the future of Work for 4 days of sessions, workshops and networking. Described by many as 'NeXt Conference', our team creates a Conference where we all can meet up for inspiration and experience sharing.",
+        "previousEventHighlight" : "https://www.youtube.com/watch?v=D93rTGn1Mls",
 
         "statistics":[
             {
-                "quantity" : "300+",
+                "quantity" : "800+",
                 "title" : "Attendees",
                 "icon" : "fa-microphone"
             },
