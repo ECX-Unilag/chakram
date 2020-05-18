@@ -1,37 +1,42 @@
 [
     {
-        "name":"Speaker Name",
+        "name":"Daniel",
         "company":"Company Name",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
+        "name":"Mr Chris Marcel",
         "company":"Company Name",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
+        "name":"Ms. Ngozi John-Uyah",
         "company":"Company Name",
         "profileImg":"assets/img/speakers/avatar.png"
     },
       {
-        "name":"Speaker Name",
+        "name":"Prosper Michael Ametu ",
         "company":"Company Name",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
+        "name":"Adebayo Adegbiji",
         "company":"Company Name",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Mr Erioluwa Adeyinka",
+        "company":"African Coordinator for SDGs ACTs- Entrepreneurship skills",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Nnamdi Orji",
+        "company":"Co-founder, OfficeHouse Nigeria",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Mr Sherrif",
+        "company":"Lagos state Coordinator, SDGs ACTs",
         "profileImg":"assets/img/speakers/avatar.png"
     }
 ]
